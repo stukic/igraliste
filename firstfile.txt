@@ -7,3 +7,5 @@
 \f0\fs24 \cf0 ovo je moja prva proba sa GIT-om, mserbec}
 
 bokic
+
+sup?
