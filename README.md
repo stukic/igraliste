@@ -1,7 +1,9 @@
-igraliste
+Igralište!
 =========
 
-Repozitorij u kojem brusite vase git vjestine 
+Repozitorij u kojem brusite vase git vjestine .
 
+## Dobrodosli novi i stari AJTIjevci!
 
-malo sam nadodao
+Pitate se kako ce izgledati vasa godina u IT timu? Evo upravo
+[ovako](https://github.com/manifestinteractive/devlife).
